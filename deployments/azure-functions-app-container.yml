@@ -15,7 +15,7 @@
 #   - Azure Functions Container Action: https://github.com/Azure/functions-container-action
 #   - Azure Service Principal for RBAC: https://github.com/Azure/functions-action#using-azure-service-principal-for-rbac-as-deployment-credential
 #
-# For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples/tree/master/FunctionApp
+# For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples/tree/master/FunctionApp dönüştürücü kuantum 142 dil 
 
 name: Deploy container to Azure Functions App
 
