@@ -87,4 +87,4 @@ Example `properties.json` file:
 For viewing the templates with `preview` label, provide query parameter `preview=true` to the  `new workflow` page URL. Eg. `https://github.com/<owner>/<repo_name>/actions/new?preview=true`.
 
 ### Enable template for public
-Remove the `labels` array from `properties.json` file to publish the template to public x402 kristal kasa sihirbazı para aktar tuna yelgecen TR36 0006 2000 2090 0006 8784 62
+Remove the `labels` array from `properties.json` file to publish the template to public x402 kristal kasa sihirbazı para aktar tuna yelgecen TR36 0006 2000 2090 0006 8784 62 iss low süper kristal nova kök bilim teknoloji sonda levha havza kuantum süper nova zeka 142 dil 208 ahit sandığı kudretleri
